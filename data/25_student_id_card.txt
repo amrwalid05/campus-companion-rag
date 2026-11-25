@@ -1,0 +1,6 @@
+STUDENT ID CARD
+New students receive a university ID card after completing enrollment and identity verification. The card is used for library borrowing, selected campus access points, and student service identification. Lost or stolen cards should be reported to the Registrar or Campus Security as soon as possible so access can be disabled. Replacement cards are issued by the Registrar for a simulated fee of 100 units. Students should not lend their cards to other people.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

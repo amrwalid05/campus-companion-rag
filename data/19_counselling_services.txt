@@ -1,0 +1,6 @@
+COUNSELLING SERVICES
+The Student Counselling Centre provides confidential appointments for enrolled students. Students can request an appointment through the Student Wellbeing Portal or visit the centre during its published office hours. The service offers short-term counselling, wellbeing workshops, and referrals to external services when appropriate. Counselling is not an emergency response service. Students facing immediate danger should contact local emergency services or campus security.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

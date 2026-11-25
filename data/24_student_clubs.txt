@@ -1,0 +1,6 @@
+STUDENT CLUBS
+Students may join registered clubs through the Student Activities Office. A new club requires at least ten interested students, a faculty advisor, a proposed constitution, and approval from the Student Activities Committee. Clubs must submit an activity plan at the beginning of each semester and follow campus event safety rules. Funding requests are reviewed separately and depend on the available student activities budget.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

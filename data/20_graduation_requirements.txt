@@ -1,0 +1,6 @@
+GRADUATION REQUIREMENTS
+The standard undergraduate degree requires completion of 120 credit hours, all compulsory courses, program-specific requirements, and a cumulative GPA of at least 2.0. Some programs require a capstone project, internship, or professional examination in addition to credit hours. Students should request a degree audit from their academic advisor before their final semester. The Registrar confirms graduation eligibility after final grades and all administrative holds are cleared.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

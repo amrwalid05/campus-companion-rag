@@ -1,0 +1,6 @@
+LIBRARY SERVICES
+The Main Library is open Monday to Friday from 8:00 a.m. to 8:00 p.m. and Saturday from 9:00 a.m. to 4:00 p.m. It is closed on Sundays and official university holidays. Students may borrow up to five books for 14 days and may renew a book once if no other user has reserved it. A valid university ID is required to borrow physical materials. Online databases can be accessed through the library portal using university credentials.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

@@ -1,0 +1,6 @@
+INTERNSHIP PROGRAM
+Students applying for a credited internship should normally have completed at least 60 credit hours and have a cumulative GPA of 2.5 or higher. The internship must be approved by the department before the start date. Students submit an internship plan, workplace supervisor details, and the required insurance forms. Assessment may include a supervisor evaluation and a final reflective report. Unapproved work placements do not automatically count toward degree credit.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

@@ -1,0 +1,6 @@
+IT ACCOUNT SUPPORT
+Every enrolled student receives a university email account and a Student Portal account. Students should never share their password and should enable multi-factor authentication when available. Password resets can be requested through the IT Helpdesk identity verification page. The IT Helpdesk operates Sunday to Thursday, 9:00 a.m. to 5:00 p.m. For urgent account lockouts during examinations, students should contact the campus IT desk in person.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

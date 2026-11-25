@@ -1,0 +1,6 @@
+ACADEMIC INTEGRITY
+Academic misconduct includes plagiarism, unauthorized collaboration, impersonation, falsification of data, and use of prohibited materials during an examination. Suspected cases are referred to the Faculty Academic Integrity Officer. Depending on severity and prior cases, outcomes may include a warning, a zero mark for the assessment, failure in the course, or a formal disciplinary hearing. Students may ask the officer about the appeal process after receiving a written decision.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

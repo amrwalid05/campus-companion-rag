@@ -1,0 +1,6 @@
+LEARNING MANAGEMENT SYSTEM
+The university Learning Management System (LMS) is used for course announcements, lecture materials, assignment submissions, and feedback. Students should check each course page at least twice per week. Assignment deadlines are displayed in the course page and are set by the instructor. If an upload fails, students should take a screenshot of the error and email the instructor before the deadline. LMS access uses the same credentials as the Student Portal.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

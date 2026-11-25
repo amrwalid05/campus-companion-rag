@@ -1,0 +1,6 @@
+MERIT SCHOLARSHIP
+The Demo University merit scholarship is available to eligible full-time undergraduate students. The standard renewal requirement is a cumulative GPA of at least 3.5 and completion of at least 24 credit hours during the academic year. Students must also remain in good academic and disciplinary standing. Renewal is reviewed at the end of each academic year. The Scholarship Office publishes application dates and required documents through the Student Portal.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

@@ -1,0 +1,17 @@
+CAMPUS COMPANION — START HERE
+
+1. Extract this ZIP.
+2. Open the extracted Campus-Companion-RAG folder in VS Code.
+3. Open a PowerShell terminal in that folder.
+4. Check Python: py -3.14 --version
+5. Create environment: py -3.14 -m venv .venv
+6. Install: .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+7. Copy config: Copy-Item .env.example .env
+8. Open .env and paste a Groq API key after GROQ_API_KEY=
+9. Build index: .\.venv\Scripts\python.exe ingest.py
+10. Run app: .\.venv\Scripts\python.exe -m streamlit run app.py
+11. Run evaluation: .\.venv\Scripts\python.exe evaluate.py
+12. Run unit tests: .\.venv\Scripts\python.exe -m unittest discover -s tests -v
+
+Do not upload .env, API keys, .venv, or chroma_db to GitHub.
+The 25 included university policy files are simulated examples, not official rules.

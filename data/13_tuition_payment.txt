@@ -1,0 +1,6 @@
+TUITION PAYMENT
+Tuition invoices are published in the Student Portal before the semester starts. The standard payment deadline is the end of the second teaching week. Students who need an installment plan should submit a request to the Finance Office before the due date. A late payment may place a registration hold on the account. Students should keep electronic receipts and contact Finance if a payment is not reflected in the portal within three working days.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

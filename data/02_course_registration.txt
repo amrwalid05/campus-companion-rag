@@ -1,0 +1,6 @@
+COURSE REGISTRATION
+Regular registration takes place during the two weeks before the semester begins through the Student Portal. A full-time undergraduate student normally registers for 15 to 18 credit hours. Students with a cumulative GPA below 2.0 should meet an academic advisor before registration. A course may be added only when prerequisites are satisfied and seats are available. Registration is not complete until the student receives a confirmation message in the portal.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

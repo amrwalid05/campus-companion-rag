@@ -1,0 +1,6 @@
+EXAMINATION RULES
+Students must bring their university ID card to every in-person examination and arrive at least 15 minutes before the scheduled start. A student arriving more than 30 minutes late may not be admitted unless the chief invigilator approves an exception. Mobile phones, smart watches, and unauthorized notes must be switched off and stored away. Students who need an approved accommodation should contact Disability Support before the examination period.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

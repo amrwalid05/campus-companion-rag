@@ -1,0 +1,6 @@
+DISABILITY SUPPORT
+Students who need academic accommodations should contact the Disability Support Office and provide appropriate supporting documentation. The office works with the student and academic departments to determine reasonable accommodations, such as additional examination time, accessible materials, or classroom arrangements. Students are encouraged to submit requests at least four weeks before the relevant examination or activity. Approved accommodations are shared only with staff who need the information to implement them.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

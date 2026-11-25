@@ -1,0 +1,6 @@
+FINANCIAL AID APPLICATIONS
+Students seeking need-based financial aid should complete the online application and upload the requested household income documents. Applications are normally reviewed within 15 working days after all required documents are received. Incomplete applications are returned to the student with a list of missing items. Financial aid decisions are communicated through the university email account. Students may request a review if their financial circumstances change significantly during the year.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

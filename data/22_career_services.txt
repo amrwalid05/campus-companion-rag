@@ -1,0 +1,6 @@
+CAREER SERVICES
+Career Services supports students and recent graduates with CV reviews, interview practice, career fairs, and employer information sessions. Individual appointments can be booked through the Career Portal. Students should upload a draft CV at least 24 hours before a scheduled review. Career Services can provide guidance but does not guarantee employment or placement. Announcements about recruitment events are sent to university email accounts.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

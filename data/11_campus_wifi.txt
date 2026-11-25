@@ -1,0 +1,6 @@
+CAMPUS WI-FI
+The student wireless network is named DEMO-STUDENT. Students connect using their university username and password. Personal devices should use the automatic network configuration profile available on the IT Services page. Network credentials must not be shared with visitors. Connectivity problems should be reported to the IT Helpdesk with the device type, campus building, and approximate time of the issue.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

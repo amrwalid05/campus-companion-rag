@@ -1,0 +1,6 @@
+ATTENDANCE POLICY
+Students are expected to attend at least 75% of scheduled sessions in each course. Attendance is recorded by the course instructor at the beginning of each class. A student who reaches three unexcused absences receives an attendance warning by university email. Students who fall below the 75% threshold may be prevented from sitting the final examination, subject to the course coordinator's review. Medical or emergency absence requests should be submitted to Student Affairs with supporting documentation within five working days.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

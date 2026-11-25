@@ -1,0 +1,6 @@
+LABORATORY SAFETY
+Students must complete the laboratory safety briefing before using teaching laboratories. Personal protective equipment specified by the instructor must be worn at all times. Food and drink are prohibited in laboratory areas. Chemicals and equipment may be used only as instructed and must not be removed from the laboratory. Spills, injuries, and damaged equipment must be reported immediately to the laboratory supervisor.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

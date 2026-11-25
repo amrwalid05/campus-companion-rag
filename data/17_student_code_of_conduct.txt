@@ -1,0 +1,6 @@
+STUDENT CODE OF CONDUCT
+Students are expected to respect the safety, dignity, and property of others. Harassment, threats, vandalism, unauthorized access to restricted facilities, and disruption of teaching activities are prohibited. Reports may be submitted to Student Affairs. The university reviews reports fairly and gives involved students an opportunity to respond. Outcomes depend on the facts and severity of the case and may include educational measures or formal disciplinary action.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

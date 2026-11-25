@@ -1,0 +1,6 @@
+UNDERGRADUATE GRADING SCALE
+The standard undergraduate grading scale is: A = 90–100 (4.0 grade points), B = 80–89 (3.0), C = 70–79 (2.0), D = 60–69 (1.0), and F = below 60 (0.0). Some courses may use approved alternative grading schemes, which must be stated in the course syllabus. A grade appeal should be submitted to the department within five working days after grades are released.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

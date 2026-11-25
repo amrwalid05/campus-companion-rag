@@ -1,0 +1,7 @@
+# Recommended: Python 3.14.x (64-bit); Python 3.11-3.13 may also work.
+streamlit>=1.40
+chromadb>=1.5.3
+sentence-transformers>=6.3.0
+groq>=0.13
+python-dotenv>=1.0
+pypdf>=5.1

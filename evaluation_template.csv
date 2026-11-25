@@ -1,0 +1,11 @@
+question,expected_source,retrieved_source,answer_observed,relevance_score_0_to_2,faithfulness_score_0_to_2,correctness_score_0_to_2,notes
+What is the minimum attendance requirement?,01_attendance_policy.txt,,,,,,
+How do I calculate my cumulative GPA?,06_gpa_calculation.txt,,,,,,
+When is the add/drop period?,03_add_drop_period.txt,,,,,,
+How many books can I borrow from the library?,09_library_services.txt,,,,,,
+What GPA is required to renew the merit scholarship?,14_scholarship_eligibility.txt,,,,,,
+What are the standard graduation requirements?,20_graduation_requirements.txt,,,,,,
+What is the parking fine?,none,,,,,,
+How do I connect to campus Wi-Fi?,11_campus_wifi.txt,,,,,,
+When is tuition payment due?,13_tuition_payment.txt,,,,,,
+Can I withdraw from a course after week ten?,04_course_withdrawal.txt,,,,,,

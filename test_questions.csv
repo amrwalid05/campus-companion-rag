@@ -1,0 +1,11 @@
+question,expected_evidence,expected_answer
+What is the minimum attendance requirement?,01_attendance_policy.txt,Students must attend at least 75% of scheduled sessions.
+How do I calculate my cumulative GPA?,06_gpa_calculation.txt,"Multiply each course credit by its grade points, sum the quality points, then divide by total GPA-bearing credit hours."
+When is the add/drop period?,03_add_drop_period.txt,The first two weeks of the semester.
+How many books can I borrow from the library?,09_library_services.txt,Up to five books for 14 days; one renewal is possible if no one has reserved the book.
+What GPA is required to renew the merit scholarship?,14_scholarship_eligibility.txt,"At least 3.5 GPA and at least 24 credit hours during the academic year, plus good standing."
+What are the standard graduation requirements?,20_graduation_requirements.txt,"120 credit hours, compulsory and program requirements, and cumulative GPA of at least 2.0."
+What is the parking fine?,none,The indexed documents do not provide enough information to answer.
+How do I connect to campus Wi-Fi?,11_campus_wifi.txt,Connect to DEMO-STUDENT using university username and password.
+When is tuition payment due?,13_tuition_payment.txt,By the end of the second teaching week.
+Can I withdraw from a course after week ten?,04_course_withdrawal.txt,"Only in exceptional documented circumstances, considered by the Faculty Committee."

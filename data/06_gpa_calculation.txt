@@ -1,0 +1,6 @@
+GPA CALCULATION
+Grade Point Average (GPA) is calculated as the sum of (course credit hours multiplied by the grade points earned in that course), divided by the total credit hours included in the calculation. For example, a 3-credit course with grade points of 4.0 contributes 12 quality points. The cumulative GPA uses all GPA-bearing courses completed at Demo University. Courses marked W are excluded. The Student Portal displays the official cumulative GPA after results are approved.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

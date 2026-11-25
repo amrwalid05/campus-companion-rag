@@ -1,0 +1,6 @@
+COURSE WITHDRAWAL
+A student may request withdrawal from a course after the add/drop period and before the end of week ten. An approved withdrawal is recorded as W on the transcript and is not included in GPA calculation. Requests must be submitted through the Student Portal and approved by the academic advisor. Requests after week ten are considered only in exceptional documented circumstances by the Faculty Committee. A W does not automatically mean that tuition is refunded.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.

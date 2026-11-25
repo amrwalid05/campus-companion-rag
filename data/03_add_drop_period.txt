@@ -1,0 +1,6 @@
+ADD AND DROP PERIOD
+The add/drop period lasts for the first two weeks of the semester. During this period, students may add or drop a course through the Student Portal without an academic penalty, provided the change does not violate program requirements. After the deadline, a student must follow the formal withdrawal procedure. Tuition adjustments, if any, are handled by the Finance Office according to the published refund schedule. Students should save the portal confirmation.
+
+Dataset note: This is simulated policy text created only for the RAG assignment; it is not an official policy of a real university.
+
+Dataset note: This is simulated policy text created only for this academic demonstration. It is not an official policy of a real university.
